@@ -76,10 +76,3 @@ plt.savefig('path_savefigfile/temporal variation of hourly rainfall.tiff')
 
 
 
-
-
-# In[ ]:
-
-
-
-
