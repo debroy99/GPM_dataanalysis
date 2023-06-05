@@ -18,7 +18,7 @@ shapefile1['geometry'].head()
 ####################################################################
 
 #importing the gpm datasets
-mfdata_DIR='E:\Debjyoti\Project Work\GPM Data\Data 23-05-14\gpm*'
+mfdata_DIR= 'path of downloaded data'
 df=xr.open_mfdataset(mfdata_DIR, parallel=True)
 
 ########################################################################
